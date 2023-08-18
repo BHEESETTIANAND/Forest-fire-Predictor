@@ -1,5 +1,6 @@
 streamlit_option_menu
 numpy
 pickle
+streamlit
 
 
