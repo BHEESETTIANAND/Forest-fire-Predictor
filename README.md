@@ -7,7 +7,6 @@ Random forest classifier to build the ML model.
 In all the above models i have gotten 100% accuracy in Random Forest Model.and 97% accuracy in the Logistic Regression.
 An i haved deployed this model using Streamlit.
 
-
 working model of the project: https://forest-fire-predictor.streamlit.app/
 
 
